@@ -1,1 +1,2 @@
-upload disini
+upload disini 
+bisa upload aplikasi 
